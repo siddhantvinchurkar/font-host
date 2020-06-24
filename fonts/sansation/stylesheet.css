@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Sansation';
+    src: url('SansationItalic.woff2') format('woff2'),
+        url('SansationItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('SansationLight.woff2') format('woff2'),
+        url('SansationLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('SansationBoldItalic.woff2') format('woff2'),
+        url('SansationBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('SansationRegular.woff2') format('woff2'),
+        url('SansationRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('SansationBold.woff2') format('woff2'),
+        url('SansationBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Sansation';
+    src: url('SansationLightItalic.woff2') format('woff2'),
+        url('SansationLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: fallback;
+}
+
